@@ -2,7 +2,7 @@
 
 INTERN ID -HPTI-SEP-2023
 
-    Toolname                                                 Link                                                       Description                     
+    Toolname                        Link                                                       Description                     
 
        
 #### Domain Name
